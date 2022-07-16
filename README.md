@@ -26,9 +26,10 @@ $ docker-compose up
         └─users
 ```
 ### About this project
-This project is which I use to learn how to buil a website from zero to one. And in this project I use Flask as backend framework, Nginx as proxy server and Docker as Container.
+This project is which I use to learn how to buil a website from zero to one. In this project I use Flask as backend framework, Nginx as proxy server and Docker as Container.
 
 ##### Language and tools
+<p align="left">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
@@ -36,6 +37,7 @@ This project is which I use to learn how to buil a website from zero to one. And
 <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" />
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+</p>
 
 ##### Try to learn
 1. How to write Restful API
