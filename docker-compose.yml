@@ -1,0 +1,13 @@
+version: '3'
+services:
+  app:
+    build: ./social_app
+    ports:
+      - "5000:5000"
+  nginx:
+    build: ./nginx
+    ports:
+      - 8080:80
+    depends_on:
+      - app
+
